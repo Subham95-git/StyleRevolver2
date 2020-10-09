@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/StyleRevolver2/static/css/main.932dbaf5.chunk.css",
+    "main.js": "/StyleRevolver2/static/js/main.ca903f51.chunk.js",
+    "main.js.map": "/StyleRevolver2/static/js/main.ca903f51.chunk.js.map",
+    "runtime-main.js": "/StyleRevolver2/static/js/runtime-main.ead0d747.js",
+    "runtime-main.js.map": "/StyleRevolver2/static/js/runtime-main.ead0d747.js.map",
+    "static/css/2.66ede9c3.chunk.css": "/StyleRevolver2/static/css/2.66ede9c3.chunk.css",
+    "static/js/2.ba2daa79.chunk.js": "/StyleRevolver2/static/js/2.ba2daa79.chunk.js",
+    "static/js/2.ba2daa79.chunk.js.map": "/StyleRevolver2/static/js/2.ba2daa79.chunk.js.map",
+    "index.html": "/StyleRevolver2/index.html",
+    "precache-manifest.7922ea49189c78346c51b6a4aed7d6c2.js": "/StyleRevolver2/precache-manifest.7922ea49189c78346c51b6a4aed7d6c2.js",
+    "service-worker.js": "/StyleRevolver2/service-worker.js",
+    "static/css/2.66ede9c3.chunk.css.map": "/StyleRevolver2/static/css/2.66ede9c3.chunk.css.map",
+    "static/css/main.932dbaf5.chunk.css.map": "/StyleRevolver2/static/css/main.932dbaf5.chunk.css.map",
+    "static/js/2.ba2daa79.chunk.js.LICENSE.txt": "/StyleRevolver2/static/js/2.ba2daa79.chunk.js.LICENSE.txt",
+    "static/media/Kurta5.jpg": "/StyleRevolver2/static/media/Kurta5.d9296472.jpg",
+    "static/media/Men1.jpg": "/StyleRevolver2/static/media/Men1.24852536.jpg",
+    "static/media/RayonKurta1.jpg": "/StyleRevolver2/static/media/RayonKurta1.bf6835bc.jpg",
+    "static/media/brand.jpg": "/StyleRevolver2/static/media/brand.8275b753.jpg",
+    "static/media/brush.jpg": "/StyleRevolver2/static/media/brush.f6ea28f6.jpg",
+    "static/media/primereact.min.css": "/StyleRevolver2/static/media/color.c7a33805.png",
+    "static/media/handloom.jpg": "/StyleRevolver2/static/media/handloom.54c26015.jpg",
+    "static/media/kurta.jpg": "/StyleRevolver2/static/media/kurta.5a646c44.jpg",
+    "static/media/mentshirt.jpg": "/StyleRevolver2/static/media/mentshirt.650fde33.jpg",
+    "static/media/nailPolish.jpg": "/StyleRevolver2/static/media/nailPolish.80985aa8.jpg",
+    "static/media/primeicons.css": "/StyleRevolver2/static/media/primeicons.79432094.woff",
+    "static/media/sale.jpg": "/StyleRevolver2/static/media/sale.341fea96.jpg",
+    "static/media/sale2.jpg": "/StyleRevolver2/static/media/sale2.5fc7dccf.jpg",
+    "static/media/saree.jpg": "/StyleRevolver2/static/media/saree.64690d38.jpg",
+    "static/media/women4.jpg": "/StyleRevolver2/static/media/women4.60f09066.jpg",
+    "static/media/women5.jpg": "/StyleRevolver2/static/media/women5.72b1d4ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead0d747.js",
+    "static/css/2.66ede9c3.chunk.css",
+    "static/js/2.ba2daa79.chunk.js",
+    "static/css/main.932dbaf5.chunk.css",
+    "static/js/main.ca903f51.chunk.js"
+  ]
+}
