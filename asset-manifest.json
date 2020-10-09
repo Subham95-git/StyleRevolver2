@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/StyleRevolver2/static/css/main.932dbaf5.chunk.css",
-    "main.js": "/StyleRevolver2/static/js/main.ca903f51.chunk.js",
-    "main.js.map": "/StyleRevolver2/static/js/main.ca903f51.chunk.js.map",
+    "main.js": "/StyleRevolver2/static/js/main.f3830f75.chunk.js",
+    "main.js.map": "/StyleRevolver2/static/js/main.f3830f75.chunk.js.map",
     "runtime-main.js": "/StyleRevolver2/static/js/runtime-main.ead0d747.js",
     "runtime-main.js.map": "/StyleRevolver2/static/js/runtime-main.ead0d747.js.map",
     "static/css/2.66ede9c3.chunk.css": "/StyleRevolver2/static/css/2.66ede9c3.chunk.css",
     "static/js/2.ba2daa79.chunk.js": "/StyleRevolver2/static/js/2.ba2daa79.chunk.js",
     "static/js/2.ba2daa79.chunk.js.map": "/StyleRevolver2/static/js/2.ba2daa79.chunk.js.map",
     "index.html": "/StyleRevolver2/index.html",
-    "precache-manifest.7922ea49189c78346c51b6a4aed7d6c2.js": "/StyleRevolver2/precache-manifest.7922ea49189c78346c51b6a4aed7d6c2.js",
+    "precache-manifest.bd840f3febd1c280b74bfbe371fd6988.js": "/StyleRevolver2/precache-manifest.bd840f3febd1c280b74bfbe371fd6988.js",
     "service-worker.js": "/StyleRevolver2/service-worker.js",
     "static/css/2.66ede9c3.chunk.css.map": "/StyleRevolver2/static/css/2.66ede9c3.chunk.css.map",
     "static/css/main.932dbaf5.chunk.css.map": "/StyleRevolver2/static/css/main.932dbaf5.chunk.css.map",
@@ -36,6 +36,6 @@
     "static/css/2.66ede9c3.chunk.css",
     "static/js/2.ba2daa79.chunk.js",
     "static/css/main.932dbaf5.chunk.css",
-    "static/js/main.ca903f51.chunk.js"
+    "static/js/main.f3830f75.chunk.js"
   ]
 }
