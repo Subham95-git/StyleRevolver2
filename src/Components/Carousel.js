@@ -49,7 +49,7 @@ const CarouselItem = ()=>{
         },
         {
             breakpoint: '480px',
-            numVisible: 1,
+            numVisible: 2,
             numScroll: 1
         }
     ];
